@@ -1,6 +1,6 @@
 # Fail Math And Get Nuked
 
-![Nuke Count](https://img.shields.io/badge/Nukes_Launched-Probably_Thousands-blue) ![Math](https://img.shields.io/badge/Is_It_Stupid-Extremely-green)
+![Is It Stupid?](https://img.shields.io/badge/Is_It_Stupid%3F-Extremely-green) ![Nuke Count](https://img.shields.io/badge/Nukes_Launched%3F-Probably_Thousands-blue) ![Anish Approved?](https://img.shields.io/badge/Anish_Approved?%3F-idk_ask_Anish-purple)
 
 
 As the name said, if you fail math you get nuked by turning off your computer so you can focus on learning math.
