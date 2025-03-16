@@ -17,4 +17,4 @@ As the name said, if you fail math you get nuked by turning off your computer so
 6. Enjoy the nuke
 
 ![Image showing the program](https://github.com/noigamegun/scrapyard/blob/main/image.png)
-![Video showing the program](https://github.com/noigamegun/scrapyard/blob/main/video.mp4)
+![Video showing the program](https://github.com/noigamegun/scrapyard/raw/refs/heads/main/video.mp4)
