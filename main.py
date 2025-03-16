@@ -116,7 +116,7 @@ class MathQuizApp:
                     playsound(soundpath)
                     os.system("sudo shutdown -h now")
                 else:
-                    messagebox.showwarning("Incorrect!","Giving you a second chance before killing your PC.")
+                    messagebox.showwarning("Incorrect!","Giving you a second chance before nuking your PC.")
                     self.nuke = True
             
             # Update score
