@@ -4,7 +4,7 @@
 
 
 As the name said, if you fail math you get nuked by turning off your computer so you can focus on learning math.
-(This is a joke, don't take it seriously)
+(This is a NOT joke, TAKE it seriously)
 
 ## How to get nuked. (aka how to run)
 
