@@ -1,1 +1,20 @@
-# scrapyard
+# Fail Math And Get Nuked
+As the name said, if you fail math you get nuked by turning off your computer so you can focus on learning math.
+(This is a joke, don't take it seriously)
+
+## How to get nuked. (aka how to run)
+
+1. Clone the repository
+`git clone https://github.com/noigamegun/scrapyard.git`
+2. Create a venv
+`python -m venv ./.venv`
+3. Activate the venv
+`source ./.venv/bin/activate`
+4. Install the requirements
+`pip3 install -r requirements.txt`
+5. Run the script
+`python3 main.py`
+6. Enjoy the nuke
+
+(Image showing the program)[https://github.com/noigamegun/scrapyard/blob/main/image.png]
+(Video showing the program)[https://github.com/noigamegun/scrapyard/blob/main/video.mp4]
