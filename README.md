@@ -22,4 +22,4 @@ As the name said, if you fail math you get nuked by turning off your computer so
 
 ![Image showing the program](https://github.com/noigamegun/scrapyard/blob/main/image.png)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MjPiXWY2O40?si=ntasTYLfUWMf_9xt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Youtube Demo](https://img.youtube.com/vi/MjPiXWY2O40/0.jpg)](https://www.youtube.com/watch?v=MjPiXWY2O40)
